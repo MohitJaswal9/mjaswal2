@@ -1,0 +1,129 @@
+*{
+	margin:0 5% 0 2%;
+}
+#d1{
+	height:100px;
+	width:100%;
+	background-color:#333;
+}
+#p1{
+	font-size:30px;
+	color:#fff;
+	font-weight:bold;
+	position:relative;
+	top:30%;
+	display:inline;
+	float:left;
+}
+#l1 li{
+	padding:15px;
+	margin:0;
+	position:relative;
+	left:-64px;
+	list-style-type:none;
+	font-size:20px;
+	float:left;
+	border:1px solid #000;
+}
+#d2{
+	width:100%;
+	height:55px;
+	background-color:#666;
+}
+#l1 li a{
+	text-decoration:none;
+	color:#fff;
+}
+#d3{
+	margin:3% 0 0 2%;
+	width:68%;
+	
+	float:left;
+}
+#d4{
+	margin:2.57% 0;
+	width:27%;
+	background-color:#CCC;
+	display:inline-block;
+	float:right;
+	position:absolute;
+	left:64.9%;
+	
+}
+#ip1{
+	height:30px;
+	width:280px;
+}
+#lab1{
+	float:left;
+}
+#lab2{
+	position:relative;
+	left:50%;
+	
+}
+#ip2{
+	height:30px;
+	width:280px;
+	position:relative;
+	left:17%;
+}
+#lab3{
+	margin-top:3%;
+}
+#ip3{
+	height:30px;
+	width:100%;
+}
+.r1{
+	margin:0 0 0 3%;
+}
+.cb1{
+	margin:0 0 0 3%;
+}
+#select1{
+	height:35px;
+	width:100%;
+}
+#ip4{
+	height:80px;
+	width:100%;
+}
+#submitb{
+	margin:5% 0 0 25%;
+	text-align:center;
+	width:50%;
+	height:35px;
+	font-size:18px;
+	color:#fff;
+	background-color:#000;
+	border:1px solid #000;
+	cursor:pointer;
+}
+#ad{
+	margin:0 0 0 5%;
+}
+#ad label{
+	margin:0;
+	font-weight:600;
+}
+#ad a{
+	margin:0;
+	text-decoration:none;
+	color:blue;
+}
+#footer{
+	margin-top:99%;
+	height:50px;
+	width:100%;
+	text-align:center;
+	color:#fff;
+	background-color:#333;
+	clear:both;
+}
+pre{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	position:relative;
+	top:22px;
+}
